@@ -1,2 +1,2 @@
 # learning-repo
-  https://github.com/piemusician/learning-repo.git
+  https://piemusician.github.io/learning-repo
